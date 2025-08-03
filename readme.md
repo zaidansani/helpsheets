@@ -12,18 +12,21 @@ i also made a module planner on google sheets, which may be helpful if you need 
 
 my module reviews are also in the file ```modreviews.md``` if you need some info for the courses, might be helpful i guess. (Not updated)
 
-| code       |                        |                                 |
-|----------|-------------------------|----------------------------------|
-| CS1101S  | Programming Methodology | Cheatsheet for midterms & finals |
-| CS1231S  | Discrete Mathematics    | Cheatsheet for midterms & finals |
-| CS2030S  | Programming Methodology II | Cheatsheet for midterms, finals and PAs |
-| CS2040S  | Data Structures and Algorithms | Cheatsheet for midterms & finals |
-| CS2100  | Computer Organisation | Cheatsheet for midterms, finals. Also, my comprehensive set of notes and templates used for the papers. |
-| CS2103/T  | Software Engineering | Cheatsheet for finals (my personal UML diagram drawings) as well as practical test|
-| MA1521   | Calculus for Computing  |  Cheatsheet for finals, personal notes |
-| MA1522   | Linear Algebra for Computing | Note binder |
-| ST1131   | Introduction to Statistics and Statistical Computing | Cheatsheet for finals and midterms (Practical) |
-| ST2334 | Probability and Statistics | Cheatsheet for finals and midterms |
+| code     | module name                                          | items                                                                                                   |
+| -------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| CS1101S  | Programming Methodology                              | Cheatsheet for midterms & finals                                                                        |
+| CS1231S  | Discrete Mathematics                                 | Cheatsheet for midterms & finals                                                                        |
+| CS2030S  | Programming Methodology II                           | Cheatsheet for midterms, finals and PAs                                                                 |
+| CS2040S  | Data Structures and Algorithms                       | Cheatsheet for midterms & finals                                                                        |
+| CS2100   | Computer Organisation                                | Cheatsheet for midterms, finals. Also, my comprehensive set of notes and templates used for the papers. |
+| CS2103/T | Software Engineering                                 | Cheatsheet for finals (my personal UML diagram drawings) as well as practical test                      |
+| CS2106   | Introduction to Operating Systems                    | Cheatsheet for midterms and finals                                                                      |
+| CS2109S  | Introduction to AI and Machine Learning              | Cheatsheet for midterms and finals                                                                      |
+| CS3213   | Foundations of Software Engineering                  | Cheatsheet for midterms and finals                                                                      |
+| MA1521   | Calculus for Computing                               | Cheatsheet for finals, personal notes                                                                   |
+| MA1522   | Linear Algebra for Computing                         | Note binder                                                                                             |
+| ST1131   | Introduction to Statistics and Statistical Computing | Cheatsheet for finals and midterms (Practical)                                                          |
+| ST2334   | Probability and Statistics                           | Cheatsheet for finals and midterms                                                                      |
 
 **note:**
 
